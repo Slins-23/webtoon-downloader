@@ -14,7 +14,7 @@
 2. Enter the desired folder's title for the cartoon in the "Enter title" textfield.
 
 3. Go to the main page of the cartoon to be downloaded and copy the URL
-    * The URL has this pattern: "https://www.webtoons.com/en/cartoongenre/cartoonname/list?title_no=sequenceofnumbers"
+    * The URL has this pattern: <https://www.webtoons.com/en/cartoongenre/cartoonname/list?title_no=sequenceofnumbers>
 
 4. Paste the URL in the "Enter url" textfield, below the "Enter title" textfield.
 
