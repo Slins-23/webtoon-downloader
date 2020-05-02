@@ -1,3 +1,3 @@
 # webtoon-downloader
 Webtoon downloader for https://www.webtoons.com/ <br>
-C# version has a GUI, which you can find the Windows .exe for download in the releases tab for this repository.
+C# version has a GUI (Windows only), which you can download in the releases tab for this repository.
