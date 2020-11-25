@@ -2,6 +2,8 @@
 
 ![Program screenshot](https://i.imgur.com/rlNX1Cf.png)
 
+![Working screenshot](https://i.imgur.com/7J49CER.png)
+
 
 *This program currently only works on https://webtoons.com!*
 
