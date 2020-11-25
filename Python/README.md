@@ -1,14 +1,5 @@
-# Project Objective
-
-Lately I have been learning JavaScript, and because of that, I have only been coding in HTML, CSS, and JavaScript, sometimes only through Node.js...
-
-As I like web crawling, I figured it would be good practice to code something in Python, as means to not lose consistency.
-
-I really like comics and this kind of stuff, though lately (past ~4 months), I haven't had any contact with these kinds of things, because I have been coding EVERYDAY (not because I was forced to, I like coding and I also self-imposed coding everyday in order to not lose consistency and obviously get better at programming, I legit get depressed if I can't code for at least 1-2 hours everyday, lol), which leads me to either spend most of the day fixing a script, creating one, or learning new technologies.
-
-Well, enough of that, so, based off of that, I decided make this web crawler, which for specificied comics (hosted at "https://webtoons.com"), the script would download every released episode for each of the specified comics, create a folder for the comic, and a folder for each episode, which would store all the images for that episode...
-
-Also create an "index.html" file, in order to mimic Webtoon's experience, in which the images are one below another in the browser. I will do that and change the background to black, because it's better and more comfortable for the eyes.
+# Info
+Web crawler, which for specific comics (hosted at "https://webtoons.com"), the script would download every released episode for each of the specified comics, create a folder for the comic and for each episode, which would store all the images for that episode... Also create an "index.html" file, in order to mimic Webtoon's experience.
 
 # How I would go about achieving it
 
